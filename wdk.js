@@ -1,5 +1,5 @@
 /**
- * Created by cliff on 10/24/2017 .
+ * Created by cliff on 10/24/2017.
  */
 const wdk = require('wikidata-sdk');
 
