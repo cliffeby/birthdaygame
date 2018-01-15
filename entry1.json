@@ -1,0 +1,563 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "Eli Manning"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=Eli+Manning",
+    "totalEstimatedMatches": 503000,
+    "value": [
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.0",
+        "name": "Eli Manning - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Eli_Manning",
+        "about": [
+          {
+            "name": "Eli Manning"
+          }
+        ],
+        "displayUrl": "https://en.wikipedia.org/wiki/Eli_Manning",
+        "snippet": "Elisha Nelson Manning IV (born January 3, 1981) is an American football quarterback for the New York Giants of the National Football League (NFL). He played college ...",
+        "dateLastCrawled": "2017-12-11T18:28:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.1",
+        "name": "Eli Manning, QB for the New York Giants at NFL.com",
+        "url": "http://www.nfl.com/player/elimanning/2505996/profile",
+        "about": [
+          {
+            "name": "Eli Manning"
+          }
+        ],
+        "displayUrl": "www.nfl.com/player/elimanning/2505996/profile",
+        "snippet": "Eli Manning #10 QB. New York Giants | Official Team Site. Height: 6-5 Weight: 220 Age: 36 Born: 1/3/1981 New ...",
+        "deepLinks": [
+          {
+            "name": "Career Stats",
+            "url": "http://www.nfl.com/player/elimanning/2505996/careerstats"
+          },
+          {
+            "name": "Game Logs",
+            "url": "http://www.nfl.com/player/elimanning/2505996/gamelogs"
+          },
+          {
+            "name": "Situational Stats",
+            "url": "http://www.nfl.com/player/elimanning/2505996/situationalstats"
+          }
+        ],
+        "dateLastCrawled": "2017-12-12T03:04:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.2",
+        "name": "Eli Manning Stats | Pro-Football-Reference.com",
+        "url": "https://www.pro-football-reference.com/players/M/MannEl00.htm",
+        "about": [
+          {
+            "name": "Eli Manning"
+          }
+        ],
+        "displayUrl": "https://www.pro-football-reference.com/players/M/MannEl00.htm",
+        "snippet": "12/9 The status of Eli Manning no doubt played a part in the Giants firing Jerry Reese and Ben McAdoo, and their departures opened the door for the 14th-year ...",
+        "dateLastCrawled": "2017-12-11T14:27:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.3",
+        "name": "Eli Manning Stats, News, Videos, Highlights, Pictures, Bio ...",
+        "url": "http://www.espn.com/nfl/player/_/id/5526/eli-manning",
+        "about": [
+          {
+            "name": "Eli Manning"
+          }
+        ],
+        "displayUrl": "www.espn.com/nfl/player/_/id/5526",
+        "snippet": "Get the latest news, stats, videos, highlights and more about New York Giants quarterback Eli Manning on ESPN.com.",
+        "dateLastCrawled": "2017-12-11T22:26:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.4",
+        "name": "Giants' Eli Manning is going to start again next week ...",
+        "url": "http://www.nj.com/giants/index.ssf/2017/12/eli_manning_gets_his_giants_sendoff_--_can_they_pl.html",
+        "displayUrl": "www.nj.com/giants/index.ssf/2017/12/eli_manning_gets_his_giants...",
+        "snippet": "Steve Spagnuolo made it clear in the aftermath of the latest Giants loss: Eli Manning will continue to start at quarterback \"until something crazy happens ...",
+        "dateLastCrawled": "2017-12-13T20:56:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.5",
+        "name": "New York Giants: Eli Manning",
+        "url": "http://www.giants.com/team/roster/eli-manning/076f2201-496c-4eb7-83e2-18a01a412059/",
+        "about": [
+          {
+            "name": "Eli Manning"
+          }
+        ],
+        "displayUrl": "www.giants.com/team/roster/eli-manning/076f2201-496c-4eb7-83e2-18a...",
+        "snippet": "Latest News for Eli Manning, Bio, Stats, Injury Reports, Photos, Video Highlights, and Game Logs for New York Giants Quarterback Eli Manning",
+        "dateLastCrawled": "2017-11-30T07:11:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.6",
+        "name": "Eli Manning - New York Giants - 2017 Player Profile ...",
+        "url": "http://www.rotoworld.com/player/nfl/1657/eli-manning",
+        "displayUrl": "www.rotoworld.com/player/nfl/1657/eli-manning",
+        "snippet": "Eli Manning 2017 player profile, game log, season stats, career stats, recent news If you play fantasy sports, get breaking news and immerse yourself in the ultimate ...",
+        "dateLastCrawled": "2017-12-12T11:10:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.7",
+        "name": "Eli Manning | New York Giants | National Football League ...",
+        "url": "https://sports.yahoo.com/nfl/players/6760/",
+        "about": [
+          {
+            "name": "Eli Manning"
+          }
+        ],
+        "displayUrl": "https://sports.yahoo.com/nfl/players/6760",
+        "snippet": "The latest stats, facts, news and notes on Eli Manning of the New York Giants",
+        "dateLastCrawled": "2017-12-11T07:15:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.8",
+        "name": "Eli Manning - IMDb",
+        "url": "http://www.imdb.com/name/nm1763141/",
+        "about": [
+          {
+            "name": "Eli Manning"
+          }
+        ],
+        "displayUrl": "www.imdb.com/name/nm1763141",
+        "snippet": "Eli Manning, Actor: The Simpsons. Eli Manning was born on January 3, 1981 in New Orleans, Louisiana, USA as Elisha Nelson Manning. He is an actor, known for The ...",
+        "dateLastCrawled": "2017-12-12T03:13:00.0000000Z"
+      }
+    ]
+  },
+  "images": {
+    "id": "https://api.cognitive.microsoft.com/api/v7/#Images",
+    "readLink": "https://api.cognitive.microsoft.com/api/v7/images/search?q=eli+manning&qpvt=Eli+Manning",
+    "webSearchUrl": "https://www.bing.com/images/search?q=eli+manning&qpvt=Eli+Manning",
+    "isFamilyFriendly": true,
+    "value": [
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=eli+manning&id=F5E98B92EF8E9A1FF633B6ECFDA89A2EEFCACA6B&FORM=IARRTH",
+        "name": "Birthday wishes for the forever-young Eli Manning | 15 ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.QjoD-Y661ar4Rs52jy0psQEyDM&pid=Api",
+        "datePublished": "2017-03-31T15:46:00.0000000Z",
+        "contentUrl": "https://thenypost.files.wordpress.com/2017/01/eli_manning1.jpg?quality=90&strip=all",
+        "hostPageUrl": "http://www.15minutenews.com/article/111410436/birthday-wishes-for-the-forever-young-eli-manning/",
+        "contentSize": "485416 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.15minutenews.com/article/111410436/birthday-wishes-for-the-forever-young-eli-manning/",
+        "width": 1800,
+        "height": 1200,
+        "thumbnail": {
+          "width": 306,
+          "height": 204
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=eli+manning&id=22FB4307E3BC83419FBFA55EF6E491640C4C748D&FORM=IARRTH",
+        "name": "Eli Manning finally joins an iconic club with 300 career ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.OHFRVpZtCtI-g60szL8U4gEsCo&pid=Api",
+        "datePublished": "2017-04-14T21:49:00.0000000Z",
+        "contentUrl": "http://images.performgroup.com/di/library/sporting_news/0/6d/1-eli-manning-081915-getty-ftrjpg_1jkd0vghzx6jo1611tjiy958ss.jpg?t=1181891663&w=960&quality=70",
+        "hostPageUrl": "http://www.sportingnews.com/nfl/news/eli-manning-stats-throws-300th-career-touchdown-pass-giants-peyton-manning-john-elway-ravens/h7ukie2wxn0n1jahr63rzg99s",
+        "contentSize": "53386 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.sportingnews.com/nfl/news/eli-manning-stats-throws-300th-career-touchdown-pass-giants-peyton-manning-john-elway-ravens/h7ukie2wxn0n1jahr63rzg99s",
+        "width": 960,
+        "height": 540,
+        "thumbnail": {
+          "width": 300,
+          "height": 168
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=eli+manning&id=65BA327E1CD477ABAB91CF085A6C21B55440F9E3&FORM=IARRTH",
+        "name": "Eli Manning, the NFL’s Unexpected Iron Man | The MMQB with ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.arGMTXXQ0jKsZXeL6kFlCwHaER&pid=Api",
+        "datePublished": "2017-01-03T12:00:00.0000000Z",
+        "contentUrl": "http://cdn-s3.si.com/images/mmqb-eli-manning-bleeding-loose.jpg",
+        "hostPageUrl": "http://mmqb.si.com/mmqb/2017/01/03/eli-manning-giants-playoffs-nfl-ironman-streak",
+        "contentSize": "576672 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://mmqb.si.com/mmqb/2017/01/03/eli-manning-giants-playoffs-nfl-ironman-streak",
+        "width": 1300,
+        "height": 751,
+        "thumbnail": {
+          "width": 474,
+          "height": 273
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=eli+manning&id=4CEC439FA3084F1575E7B5EDCA66D4EC961BC8CD&FORM=IARRTH",
+        "name": "#17. Eli Manning | | mtstandard.com",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.Rfy9VTmmykyMnrUbhM06EwEsDZ&pid=Api",
+        "datePublished": "2016-10-07T18:12:00.0000000Z",
+        "contentUrl": "https://s2.graphiq.com/sites/default/files/stories/t4/Eli_Manning_40094_20939.jpg",
+        "hostPageUrl": "http://mtstandard.com/eli-manning/article_e083d5dd-5057-55a7-9e04-82ac5ae61ddd.html",
+        "contentSize": "60666 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://mtstandard.com/eli-manning/article_e083d5dd-5057-55a7-9e04-82ac5ae61ddd.html",
+        "width": 800,
+        "height": 581,
+        "thumbnail": {
+          "width": 300,
+          "height": 217
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=eli+manning&id=B1E4E2131AA816297D4CD34A0DE619EB6E503099&FORM=IARRTH",
+        "name": "Giants' Eli Manning at center of sports memorabilia ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.uoiIlTN8Il6RpTCQiGhmsQHaFI&pid=Api",
+        "datePublished": "2017-04-15T01:01:00.0000000Z",
+        "contentUrl": "http://www.trbimg.com/img-58f0f42d/turbine/la-sp-eli-manning-memorabilia-20170414",
+        "hostPageUrl": "http://www.latimes.com/sports/sportsnow/la-sp-eli-manning-memorabilia-20170414-story.html",
+        "contentSize": "471490 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.latimes.com/sports/sportsnow/la-sp-eli-manning-memorabilia-20170414-story.html",
+        "width": 2048,
+        "height": 1418,
+        "thumbnail": {
+          "width": 474,
+          "height": 328
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=eli+manning&id=036DB09E0F68C6E8EC1558AFA2414B66DD6489CF&FORM=IARRTH",
+        "name": "Eli Manning has been awful against the Vikings, and the ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.B5PIXFiS1Br7AltnFDZidQEsCo&pid=Api",
+        "datePublished": "2017-04-22T15:34:00.0000000Z",
+        "contentUrl": "http://images.performgroup.com/di/library/sporting_news/ea/68/elimanninggetty0805ftr_pxcibj3ueubp11vk56xy13t60.jpg?t=-12840338&w=960&quality=70",
+        "hostPageUrl": "http://www.sportingnews.com/nfl/news/giants-vikings-eli-manning-bad-monday-night-football-fantasy-odell-beckham-jr/135yhikfx334y1inz50d5rtgl9",
+        "contentSize": "35238 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.sportingnews.com/nfl/news/giants-vikings-eli-manning-bad-monday-night-football-fantasy-odell-beckham-jr/135yhikfx334y1inz50d5rtgl9",
+        "width": 960,
+        "height": 540,
+        "thumbnail": {
+          "width": 300,
+          "height": 168
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=eli+manning&id=5B83E4CD236F2E0EBA8B91E32172D3452D7366FF&FORM=IARRTH",
+        "name": "Eli Manning Game - Google Family Feud",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.FgHGUe95SWiPQ9A5DbjkvAHaEK&pid=Api",
+        "datePublished": "2017-09-14T12:07:00.0000000Z",
+        "contentUrl": "http://cdn-s3.si.com/s3fs-public/styles/si_article_main/public/2016/07/07/eli-manning-new-york-giants-playoff-team.jpg",
+        "hostPageUrl": "http://autocompleters.com/eli-manning-game/",
+        "contentSize": "45934 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://autocompleters.com/eli-manning-game/",
+        "width": 960,
+        "height": 540,
+        "thumbnail": {
+          "width": 474,
+          "height": 266
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=eli+manning&id=E840ED65DBFC7D2B755922641AD266F5DD8314AF&FORM=IARRTH",
+        "name": "Eli Manning Game - Google Family Feud",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.R3Ypm9jQ61WxN-1ttAy3GQHaEc&pid=Api",
+        "datePublished": "2017-09-14T12:07:00.0000000Z",
+        "contentUrl": "http://gridironnow.com/wp-content/uploads/2016/09/Eli-Manning.jpg",
+        "hostPageUrl": "http://googlefamilyfeud.com/eli-manning-game/",
+        "contentSize": "191556 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://googlefamilyfeud.com/eli-manning-game/",
+        "width": 1000,
+        "height": 600,
+        "thumbnail": {
+          "width": 474,
+          "height": 284
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=eli+manning&id=0C0A46785B7EF172152D9895C495C5E157609301&FORM=IARRTH",
+        "name": "Eli Manning Tribute thread - Page 3 - Sports Forum - SurfTalk",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.-8VFbrgIjFi0utvs4TnkXAHaEo&pid=Api",
+        "datePublished": "2016-09-10T13:33:00.0000000Z",
+        "contentUrl": "http://sports.cbsimg.net/images/blogs/Eli-manning-dab-12-19-15.jpg",
+        "hostPageUrl": "http://www.stripersonline.com/surftalk/topic/655506-eli-manning-tribute-thread/page-3",
+        "contentSize": "70787 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.stripersonline.com/surftalk/topic/655506-eli-manning-tribute-thread/page-3",
+        "width": 640,
+        "height": 400,
+        "thumbnail": {
+          "width": 474,
+          "height": 296
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=eli+manning&id=7A52CDF1F104B2B198BAD5A1088A8CE0E62CA5D0&FORM=IARRTH",
+        "name": "Giants' Eli Manning nominated for NFL Man of the Year ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.PMOoKfSnxG7df9Bsn3yxYQHaEK&pid=Api",
+        "datePublished": "2016-09-11T15:48:00.0000000Z",
+        "contentUrl": "http://a.fssta.com/content/dam/fsdigital/RSN/Southwest/2014/01/23/012314-SW-NFL-Eli-Manning--PI.jpg",
+        "hostPageUrl": "http://www.foxsports.com/nfl/story/new-york-giants-eli-manning-walter-payton-award-120215",
+        "contentSize": "1291870 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.foxsports.com/nfl/story/new-york-giants-eli-manning-walter-payton-award-120215",
+        "width": 1600,
+        "height": 900,
+        "thumbnail": {
+          "width": 474,
+          "height": 266
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=eli+manning&id=53DF2DA76521B09336CCB1FF8D5C404E2734C0F1&FORM=IARRTH",
+        "name": "Eli Manning wants the highest salary in NFL history ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.OOLVUNdP4DxnETARt9AmhgEsDh&pid=Api",
+        "datePublished": "2015-08-20T14:29:00.0000000Z",
+        "contentUrl": "http://static4.businessinsider.com/image/55d3405e371d2254008c08c1/eli-manning-wants-the-highest-salary-in-nfl-history.jpg",
+        "hostPageUrl": "http://businessinsider.com/giants-eli-manning-contract-2015-8",
+        "contentSize": "723919 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://businessinsider.com/giants-eli-manning-contract-2015-8",
+        "width": 2664,
+        "height": 1998,
+        "thumbnail": {
+          "width": 300,
+          "height": 225
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=eli+manning&id=EEDEFAD23D7F1601046912A88B3A66AB513F30EA&FORM=IARRTH",
+        "name": "Fantasy Week 6: Start Eli Manning. Sit this other ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.SMls0260vvYfkQWo0bkWfgEsDI&pid=Api",
+        "datePublished": "2016-08-01T20:12:00.0000000Z",
+        "contentUrl": "https://usatfantasy.files.wordpress.com/2014/10/eli-manning-new-york-giants_20140921a.jpg?w=1200",
+        "hostPageUrl": "http://fantasy.usatoday.com/2014/10/football-eli-manning-start-sit",
+        "contentSize": "256694 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://fantasy.usatoday.com/2014/10/football-eli-manning-start-sit",
+        "width": 1200,
+        "height": 800,
+        "thumbnail": {
+          "width": 300,
+          "height": 200
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=eli+manning&id=E840ED65DBFC7D2B7559AF48E92739C262DAE61B&FORM=IARRTH",
+        "name": "Eli Manning Game - Google Family Feud",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.vcFeq1RiGiMXEWg4FcROvAEsCi&pid=Api",
+        "datePublished": "2017-09-14T12:07:00.0000000Z",
+        "contentUrl": "http://movietvtechgeeks.com/wp-content/uploads/2015/10/fantasy-football-start-sit-week-5-eli-manning-2015-nfl-images.jpg",
+        "hostPageUrl": "http://googlefamilyfeud.com/eli-manning-game/",
+        "contentSize": "100026 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://googlefamilyfeud.com/eli-manning-game/",
+        "width": 1000,
+        "height": 541,
+        "thumbnail": {
+          "width": 300,
+          "height": 162
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=eli+manning&id=229BEAB880D129FD545F09BE7C5FBBBE9AF00204&FORM=IARRTH",
+        "name": "Eli Manning's attorneys say he didn't provide fake ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.bYFsZZJFikooyd13reBnYQFNC7&pid=Api",
+        "datePublished": "2017-04-28T23:33:00.0000000Z",
+        "contentUrl": "http://assets1.sportsnet.ca/wp-content/uploads/2017/04/Eli-Manning.jpg",
+        "hostPageUrl": "http://www.sportsnet.ca/football/nfl/eli-mannings-attorneys-say-didnt-provide-fake-memorabilia/",
+        "contentSize": "104617 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.sportsnet.ca/football/nfl/eli-mannings-attorneys-say-didnt-provide-fake-memorabilia/",
+        "width": 1280,
+        "height": 720,
+        "thumbnail": {
+          "width": 333,
+          "height": 187
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=eli+manning&id=4BEC7E911C592A5D96C50057C64FE46FF99BCAE1&FORM=IARRTH",
+        "name": "Eli Manning Scores $8.5M Hamptons Home - Sun Heritage Real ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.T_8sfTIwmFwZeI_Dvo9m3AHaEM&pid=Api",
+        "datePublished": "2017-02-08T03:57:00.0000000Z",
+        "contentUrl": "http://rdcnewscdn.realtor.com/wp-content/uploads/2017/01/eli-manning-cantor-e1483985450706.jpg",
+        "hostPageUrl": "http://www.sunheritage.com/demo/eli-manning-scores-8-5m-hamptons-home.html",
+        "contentSize": "123532 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.sunheritage.com/demo/eli-manning-scores-8-5m-hamptons-home.html",
+        "width": 1985,
+        "height": 1125,
+        "thumbnail": {
+          "width": 474,
+          "height": 268
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=eli+manning&id=6C7E9913A05A3D7A537B1ADCE21C13224B839B97&FORM=IARRTH",
+        "name": "The Many Faces of Eli Manning - Photos - Eli Manning: The ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.ac4EUWxjKePkbjuNVlqF8gEsCd&pid=Api",
+        "datePublished": "2017-08-12T14:12:00.0000000Z",
+        "contentUrl": "http://assets.nydailynews.com/polopoly_fs/1.2934428.1483554090!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/faces-eli-manning.jpg",
+        "hostPageUrl": "http://www.nydailynews.com/sports/football/giants/eli-manning-face-giants-quarterback-gallery-1.2934459?pmSlide=1.2934428",
+        "contentSize": "73480 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.nydailynews.com/sports/football/giants/eli-manning-face-giants-quarterback-gallery-1.2934459?pmSlide=1.2934428",
+        "width": 1200,
+        "height": 630,
+        "thumbnail": {
+          "width": 300,
+          "height": 157
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=eli+manning&id=E840ED65DBFC7D2B7559C2AD3FE232EA8CE56937&FORM=IARRTH",
+        "name": "Eli Manning Game - Google Family Feud",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.Nm-uKiPgNBn1lsrAz0MhAwHaFa&pid=Api",
+        "datePublished": "2017-09-14T12:07:00.0000000Z",
+        "contentUrl": "http://www.cheatsheet.com/wp-content/uploads/2016/08/Eli-Manning-Elsa-Getty-Images.jpg",
+        "hostPageUrl": "http://googlefamilyfeud.com/eli-manning-game/",
+        "contentSize": "166809 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://googlefamilyfeud.com/eli-manning-game/",
+        "width": 1024,
+        "height": 749,
+        "thumbnail": {
+          "width": 474,
+          "height": 346
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=eli+manning&id=E840ED65DBFC7D2B75595AB83169931A3AE3D779&FORM=IARRTH",
+        "name": "Eli Manning Game - Google Family Feud",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.6M6FzjPRA1Y6G0dK_mKYNAHaKX&pid=Api",
+        "datePublished": "2017-09-14T12:07:00.0000000Z",
+        "contentUrl": "http://www.talkoffamenetwork.com/wp-content/uploads/2015/01/manningeli3.jpg",
+        "hostPageUrl": "http://googlefamilyfeud.com/eli-manning-game/",
+        "contentSize": "381997 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://googlefamilyfeud.com/eli-manning-game/",
+        "width": 1500,
+        "height": 2100,
+        "thumbnail": {
+          "width": 474,
+          "height": 663
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=eli+manning&id=54216D6FB90170A250FBE7FB2514BD932778DE84&FORM=IARRTH",
+        "name": "Report: Eli Manning Wants To Be The NFL’s Highest Paid Player",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.-FlYqoLhTXiu4jGsckqDkQEsCm&pid=Api",
+        "datePublished": "2015-08-18T12:42:00.0000000Z",
+        "contentUrl": "https://uproxx.files.wordpress.com/2015/08/eli-manning.jpg?w=650&h=361",
+        "hostPageUrl": "http://uproxx.com/sports/2015/08/eli-manning-highest-paid-player-nfl",
+        "contentSize": "249071 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://uproxx.com/sports/2015/08/eli-manning-highest-paid-player-nfl",
+        "width": 650,
+        "height": 361,
+        "thumbnail": {
+          "width": 300,
+          "height": 166
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=eli+manning&id=C1E4259FAA10CF2362AD5E319F6CD00AD859D2EB&FORM=IARRTH",
+        "name": "Does Eli Manning Deserve to be the Highest-Paid Player in ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.yGwWS2b1ANzxx1Q5guV9FwHaFO&pid=Api",
+        "datePublished": "2017-03-01T23:38:00.0000000Z",
+        "contentUrl": "http://media3.s-nbcnews.com/j/newscms/2014_41/712906/141012-eli-manning-jms-1959_d5c3fe98d81f8e61259b08aa220fae13.nbcnews-ux-2880-1000.jpg",
+        "hostPageUrl": "http://www.nbcnews.com/business/careers/does-eli-manning-deserve-be-highest-paid-player-nfl-n413196",
+        "contentSize": "109759 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.nbcnews.com/business/careers/does-eli-manning-deserve-be-highest-paid-player-nfl-n413196",
+        "width": 1415,
+        "height": 1000,
+        "thumbnail": {
+          "width": 474,
+          "height": 334
+        }
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "Tweets"
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.8"
+          }
+        }
+      ]
+    },
+    "sidebar": {
+      "items": [
+        {
+          "answerType": "Images",
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#Images"
+          }
+        }
+      ]
+    }
+  }
+}

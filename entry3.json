@@ -1,0 +1,533 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "Boyd Rice"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=Boyd+Rice",
+    "totalEstimatedMatches": 3920000,
+    "value": [
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.0",
+        "name": "Boyd Rice - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Boyd_Rice",
+        "about": [
+          {
+            "name": "Boyd Rice"
+          }
+        ],
+        "displayUrl": "https://en.wikipedia.org/wiki/Boyd_Rice",
+        "snippet": "Boyd Blake Rice (born December 16, 1956) is an American experimental sound/noise musician using the name of NON since the mid-1970s, archivist, actor, photographer ...",
+        "dateLastCrawled": "2017-12-11T05:20:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.1",
+        "name": "Boyd Rice / Non (official) - Home | Facebook",
+        "url": "https://www.facebook.com/BoydRiceNon",
+        "about": [
+          {
+            "name": "Boyd Rice"
+          }
+        ],
+        "displayUrl": "https://www.facebook.com/BoydRiceNon",
+        "snippet": "Boyd Rice / Non (official). 16,480 likes · 70 talking about this. The official Facebook page for Boyd Rice & Non Mute Bank - http://bit.ly/ZU1jkE",
+        "deepLinks": [
+          {
+            "name": "Photos",
+            "url": "https://www.facebook.com/BoydRiceNon/photos"
+          },
+          {
+            "name": "About",
+            "url": "https://www.facebook.com/BoydRiceNon/about"
+          },
+          {
+            "name": "Official",
+            "url": "https://m.facebook.com/BoydRiceNon"
+          },
+          {
+            "name": "Live",
+            "url": "https://www.facebook.com/BoydRiceNon/app_123966167614127"
+          }
+        ],
+        "dateLastCrawled": "2017-12-10T06:01:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.2",
+        "name": "Rice Performance Horses | The official website of Boyd ...",
+        "url": "http://www.riceperformancehorses.com/",
+        "displayUrl": "www.riceperformancehorses.com",
+        "snippet": "Boyd Rice has amassed earnings in excess of $3.8 million in the Western performance horse industry. Boyd Rice is more than a cutting and reined cow horse trainer, he ...",
+        "dateLastCrawled": "2017-12-11T07:54:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.3",
+        "name": "Boyd Rice Discography at Discogs",
+        "url": "https://www.discogs.com/artist/49845-Boyd-Rice",
+        "about": [
+          {
+            "name": "Boyd Rice"
+          }
+        ],
+        "displayUrl": "https://www.discogs.com/artist/49845-Boyd-Rice",
+        "snippet": "Complete your Boyd Rice record collection. Discover Boyd Rice's full discography. Shop new and used Vinyl and CDs.",
+        "dateLastCrawled": "2017-12-03T02:06:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.4",
+        "name": "BOYD RICE",
+        "url": "http://boydrice.tumblr.com/",
+        "displayUrl": "boydrice.tumblr.com",
+        "snippet": "berkmanfrick: I'm sad to see the official Boyd Rice page gone. Is it possible that you could repost his reading list? Thanks... • BOYD RICE'S Recommended Reading ...",
+        "dateLastCrawled": "2017-12-01T09:19:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.5",
+        "name": "Boyd Rice — Free listening, videos, concerts, stats and ...",
+        "url": "https://www.last.fm/music/Boyd+Rice",
+        "displayUrl": "https://www.last.fm/music/Boyd+Rice",
+        "snippet": "Boyd Rice (born 1956) is an American experimental sound artist, archivist, actor, photographer, prankster and writer best known for his pioneering industrial noise ...",
+        "dateLastCrawled": "2017-11-29T01:03:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.6",
+        "name": "Boyd Rice - People - YouTube",
+        "url": "https://www.youtube.com/watch?v=4z50p2v5Of0",
+        "about": [
+          {
+            "name": "People (with Douglas P.)"
+          },
+          {
+            "name": "Boyd Rice"
+          }
+        ],
+        "displayUrl": "https://www.youtube.com/watch?v=4z50p2v5Of0",
+        "snippet": "Boyd Rice - People From the album - Music, Martinis and Misanthropy made in aarhus denmark by me lyrics. Do you ever think about what a lovely place the ...",
+        "dateLastCrawled": "2017-12-10T17:52:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.7",
+        "name": "boyd rice | eBay",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=boyd+rice",
+        "displayUrl": "https://www.ebay.com/sch/i.html?_nkw=boyd+rice",
+        "snippet": "Find great deals on eBay for boyd rice and austin spare. Shop with confidence.",
+        "dateLastCrawled": "2017-11-30T09:27:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.8",
+        "name": "Amazon.com: Boyd Rice",
+        "url": "https://www.amazon.com/Boyd-Rice/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3ABoyd%20Rice",
+        "displayUrl": "https://www.amazon.com/Boyd-Rice/s?ie=UTF8&page=1&rh=i:aps,k:Boyd Rice",
+        "snippet": "Temporarily out of stock. Order now and we'll deliver when available. More Buying Choices. $36.28 (6 used & new offers)",
+        "dateLastCrawled": "2017-11-28T22:54:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.9",
+        "name": "Non / Boyd Rice - Turn Me On Dead Man - YouTube",
+        "url": "https://www.youtube.com/watch?v=I4UpI1UMO7E",
+        "displayUrl": "https://www.youtube.com/watch?v=I4UpI1UMO7E",
+        "snippet": "Subscribe to the official Mute channel here: http://bit.ly/108HlR6 Non / Boyd Rice - Turn Me On Dead Man 'Turn Me On, Dead Man' is taken from the new Boyd ...",
+        "dateLastCrawled": "2017-12-12T07:34:00.0000000Z"
+      }
+    ]
+  },
+  "images": {
+    "id": "https://api.cognitive.microsoft.com/api/v7/#Images",
+    "readLink": "https://api.cognitive.microsoft.com/api/v7/images/search?q=boyd+rice&qpvt=Boyd+Rice",
+    "webSearchUrl": "https://www.bing.com/images/search?q=boyd+rice&qpvt=Boyd+Rice",
+    "isFamilyFriendly": true,
+    "value": [
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=boyd+rice&id=B7F86A0E6166E968B569C7D9D11EE8E6A1702A25&FORM=IARRTH",
+        "name": "“Boyd Rice: A Biography” by Brian M. Clark - Heathen Harvest",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.91SQ1F8ziGWegtOF9vpACQEsEs&pid=Api",
+        "datePublished": "2016-05-29T12:00:00.0000000Z",
+        "contentUrl": "https://heathenharvest.org/wp-content/uploads/2016/05/boyd-rice-brian-m-clark.jpg",
+        "hostPageUrl": "https://heathenharvest.org/2016/05/29/boyd-rice-a-biography-by-brian-m-clark/",
+        "contentSize": "144474 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "https://heathenharvest.org/2016/05/29/boyd-rice-a-biography-by-brian-m-clark/",
+        "width": 600,
+        "height": 600,
+        "thumbnail": {
+          "width": 300,
+          "height": 300
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=boyd+rice&id=34C4900D73F18795F42702B8E2233D4A69D4BD84&FORM=IARRTH",
+        "name": "Cold Cave shows being cancelled due to Boyd Rice being ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.zu9tGxY4UlAchQqYCO7MRQEsDh&pid=Api",
+        "datePublished": "2013-06-27T17:46:00.0000000Z",
+        "contentUrl": "http://www.brooklynvegan.com/files/2016/01/boydrice1.jpg?w=600&h=0&zc=1&s=0&a=t&q=89",
+        "hostPageUrl": "http://www.brooklynvegan.com/cold-cave-boyd/",
+        "contentSize": "58561 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.brooklynvegan.com/cold-cave-boyd/",
+        "width": 600,
+        "height": 450,
+        "thumbnail": {
+          "width": 300,
+          "height": 225
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=boyd+rice&id=F4DD812F0194638F8CCD19EE9BB6EA73DA1697DC&FORM=IARRTH",
+        "name": "Current 93 - I Am The Last Of All The Field That Fell: Å ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.E5TMYguWJJFvBtpCWDze6wDyEs&pid=Api",
+        "datePublished": "2015-11-07T19:11:00.0000000Z",
+        "contentUrl": "https://i.scdn.co/image/0ebe11c343aa55deec668d638351855b4bdff1bb",
+        "hostPageUrl": "https://www.normanrecords.com/records/145260-current-93-i-am-the-last-of",
+        "contentSize": "122100 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "https://www.normanrecords.com/records/145260-current-93-i-am-the-last-of",
+        "width": 1000,
+        "height": 1236,
+        "thumbnail": {
+          "width": 242,
+          "height": 300
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=boyd+rice&id=287B49F909D04B6B4ECF36AB5E5628FFEE091CE6&FORM=IARRTH",
+        "name": "Boyd Rice",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.VM8Ls0GJDf7Utgo_wABrnwHaHa&pid=Api",
+        "datePublished": "2015-03-01T17:15:00.0000000Z",
+        "contentUrl": "http://www.centerranch.com/images/team/lg_Boyd01.jpg",
+        "hostPageUrl": "http://www.centerranch.com/index.php/about-2/team/55-center-ranch-training-program/52-boyd-rice",
+        "contentSize": "128567 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.centerranch.com/index.php/about-2/team/55-center-ranch-training-program/52-boyd-rice",
+        "width": 1000,
+        "height": 1000,
+        "thumbnail": {
+          "width": 474,
+          "height": 474
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=boyd+rice&id=A4C3106C4E8F15306621B2B9E78CD8B316F48BF7&FORM=IARRTH",
+        "name": "Boyd Rice & Johnny Cash Boyd Rice being the influence ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.RpNoMqcicoHKSf8Y9qIBMgDWEs&pid=Api",
+        "datePublished": "2017-02-25T02:29:00.0000000Z",
+        "contentUrl": "https://s-media-cache-ak0.pinimg.com/236x/8b/d6/dd/8bd6dde1287f2247bd558ea3be4599e6.jpg",
+        "hostPageUrl": "https://www.pinterest.com/pin/451767406344487073/",
+        "contentSize": "13369 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "https://www.pinterest.com/pin/451767406344487073/",
+        "width": 236,
+        "height": 330,
+        "thumbnail": {
+          "width": 214,
+          "height": 300
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=boyd+rice&id=21A3E0A825F0F12E47118F8C35EFB04876456A33&FORM=IARRTH",
+        "name": "Boyd Rice Myspace images",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.dEBf_gYM9VS-54EcsZIKpwDIEs&pid=Api",
+        "datePublished": "2017-09-27T17:06:00.0000000Z",
+        "contentUrl": "http://4.bp.blogspot.com/-_ihJrf4EFRw/Ttce9BrugiI/AAAAAAAAAlM/2NFTLHxki1c/s1600/WCO-NON_IMG_6087.jpg",
+        "hostPageUrl": "http://galleryfantastic.com/boyd+rice+myspace",
+        "contentSize": "430643 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://galleryfantastic.com/boyd+rice+myspace",
+        "width": 600,
+        "height": 900,
+        "thumbnail": {
+          "width": 200,
+          "height": 300
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=boyd+rice&id=4E05DDF95010B0A5D7BEB4030C3F46B2D645CA70&FORM=IARRTH",
+        "name": "Who Makes the Nazis?: Just Say Non: Nazism, Narcissism and ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.ygg7w-E9Q-IGdfjPWZ3zcQDMEy&pid=Api",
+        "datePublished": "2011-01-31T12:48:00.0000000Z",
+        "contentUrl": "http://1.bp.blogspot.com/_yufWIqNoK-Q/TMrMqStohaI/AAAAAAAAANA/x6BQTzuc-XU/s1600/Boyd_Rice_No.jpg",
+        "hostPageUrl": "http://www.whomakesthenazis.com/2010/10/just-say-non-nazism-narcissism-and-boyd.html",
+        "contentSize": "79460 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.whomakesthenazis.com/2010/10/just-say-non-nazism-narcissism-and-boyd.html",
+        "width": 333,
+        "height": 500,
+        "thumbnail": {
+          "width": 204,
+          "height": 306
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=boyd+rice&id=87710C2108326AF96F0B15E297E836807D288478&FORM=IARRTH",
+        "name": "The Boyd Rice Experience — Mr. Intolerance — Listen, watch ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.Uj2NIvA7Iwo2G3vsWi5bjwCqCq&pid=Api",
+        "datePublished": "2016-12-14T09:18:00.0000000Z",
+        "contentUrl": "http://img2-ak.lst.fm/i/u/avatar170s/94d853f0d5fb4955b5e20835c6feb2db",
+        "hostPageUrl": "http://www.last.fm/music/The+Boyd+Rice+Experience/_/Mr.+Intolerance",
+        "contentSize": "7297 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.last.fm/music/The+Boyd+Rice+Experience/_/Mr.+Intolerance",
+        "width": 170,
+        "height": 170,
+        "thumbnail": {
+          "width": 170,
+          "height": 170
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=boyd+rice&id=471F01884ED79638292B7624DC89152204D7864A&FORM=IARRTH",
+        "name": "Cold Cave, Boyd Rice and Alberich played 285 Kent, it wasn ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.EdtO9ZHnUVvOgfB_1smEDwEsDI&pid=Api",
+        "datePublished": "2013-07-02T21:10:00.0000000Z",
+        "contentUrl": "http://www.brooklynvegan.com/img/fp/boydrice/285kent/boyd-rice-02.jpg",
+        "hostPageUrl": "http://www.brooklynvegan.com/archives/2013/07/cold_cave_boyd_1.html",
+        "contentSize": "33134 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.brooklynvegan.com/archives/2013/07/cold_cave_boyd_1.html",
+        "width": 480,
+        "height": 320,
+        "thumbnail": {
+          "width": 300,
+          "height": 200
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=boyd+rice&id=1BD5386F9FA91966A429B8D0F309243865F21E6F&FORM=IARRTH",
+        "name": "Traça ou Repassa Industrial",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.eAFQepYxvRx3K1hFKUAj0gDnEN&pid=Api",
+        "datePublished": "2012-03-08T18:56:00.0000000Z",
+        "contentUrl": "http://37.media.tumblr.com/tumblr_lso1q81Vci1r41xuko1_500.jpg",
+        "hostPageUrl": "http://torindustrial.tumblr.com/",
+        "contentSize": "58147 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://torindustrial.tumblr.com/",
+        "width": 430,
+        "height": 500,
+        "thumbnail": {
+          "width": 231,
+          "height": 269
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=boyd+rice&id=471F01884ED79638292BAEE5212AE96A498E4F1F&FORM=IARRTH",
+        "name": "Cold Cave, Boyd Rice and Alberich played 285 Kent, it wasn ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.h0s8oT76OA5c-qY4JpJFDgEsDI&pid=Api",
+        "datePublished": "2013-07-02T21:10:00.0000000Z",
+        "contentUrl": "http://www.brooklynvegan.com/img/fp/boydrice/285kent/boyd-rice-05.jpg",
+        "hostPageUrl": "http://www.brooklynvegan.com/archives/2013/07/cold_cave_boyd_1.html",
+        "contentSize": "24268 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.brooklynvegan.com/archives/2013/07/cold_cave_boyd_1.html",
+        "width": 480,
+        "height": 320,
+        "thumbnail": {
+          "width": 300,
+          "height": 200
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=boyd+rice&id=31397718CECFD67A2D9ABBAD9DAA8BF084A2224A&FORM=IARRTH",
+        "name": "Boyd Rice Quotes. QuotesGram",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.LxdHK0ljk41IwRh-1CtHnAEbDI&pid=Api",
+        "datePublished": "2017-08-25T17:24:00.0000000Z",
+        "contentUrl": "http://cdn.quotesgram.com/small/36/14/1852930721-Boyd_Rice.jpg",
+        "hostPageUrl": "https://quotesgram.com/boyd-rice-quotes/",
+        "contentSize": "14641 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "https://quotesgram.com/boyd-rice-quotes/",
+        "width": 283,
+        "height": 200,
+        "thumbnail": {
+          "width": 283,
+          "height": 200
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=boyd+rice&id=8CC2FEE5DE815119A933760F1A9D5E0D3E90F798&FORM=IARRTH",
+        "name": "Right-wing music — Listen free at Last.fm",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.Ru-S15GsSoFGBU1WaTMXjwEsEs&pid=Api",
+        "datePublished": "2009-10-02T18:34:00.0000000Z",
+        "contentUrl": "https://lastfm-img2.akamaized.net/i/u/300x300/2c254fe949ef412492ab4e529bb0436a.jpg",
+        "hostPageUrl": "http://www.last.fm/tag/right-wing",
+        "contentSize": "26961 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.last.fm/tag/right-wing",
+        "width": 300,
+        "height": 300,
+        "thumbnail": {
+          "width": 300,
+          "height": 300
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=boyd+rice&id=6DCCD0141CAA0362BE1D1D7B8805744A0A18750B&FORM=IARRTH",
+        "name": "Have A Nice Day: An Interview with Boyd Rice - WFMU's ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.jyqGWk2y1utfayvMK8I-3wEuDO&pid=Api",
+        "datePublished": "2011-05-19T12:00:00.0000000Z",
+        "contentUrl": "http://blog.wfmu.org/.a/6a00d83451c29169e201543268d887970c-600wi",
+        "hostPageUrl": "http://blog.wfmu.org/freeform/2011/05/a-conversation-with-boyd-rice.html",
+        "contentSize": "33007 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://blog.wfmu.org/freeform/2011/05/a-conversation-with-boyd-rice.html",
+        "width": 600,
+        "height": 409,
+        "thumbnail": {
+          "width": 302,
+          "height": 206
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=boyd+rice&id=08D99FFE8DF240805DCEDE418D32BC094768ED41&FORM=IARRTH",
+        "name": "Xenosphere: The Strange Outer Edges of Occultism: Marilyn ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.q1y9Nc6YNkXnEReZzp07kAD4D7&pid=Api",
+        "datePublished": "2017-07-14T08:12:00.0000000Z",
+        "contentUrl": "http://2.bp.blogspot.com/-37vyLtyWRVc/U4mnroDNxZI/AAAAAAAAAeY/CEqjJS9J-Lw/s1600/250.jpg",
+        "hostPageUrl": "http://xenosphere22.blogspot.com/2014/05/marilyn-manson-vs-boyd-rice.html",
+        "contentSize": "22028 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://xenosphere22.blogspot.com/2014/05/marilyn-manson-vs-boyd-rice.html",
+        "width": 250,
+        "height": 253,
+        "thumbnail": {
+          "width": 248,
+          "height": 251
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=boyd+rice&id=052326A72BF12220A88E7758964FCBA793A4B514&FORM=IARRTH",
+        "name": "Boyd Rice 22 | Live @ Plan B, Moscow, 03.11.2012 ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.qLypq0KT8nwJCIUIfq-LgAEsDG&pid=Api",
+        "datePublished": "2017-07-07T17:39:00.0000000Z",
+        "contentUrl": "https://c1.staticflickr.com/9/8203/8227171901_29bf6dccdd_b.jpg",
+        "hostPageUrl": "https://www.flickr.com/photos/miss_goodwrong/8227171901",
+        "contentSize": "138806 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "https://www.flickr.com/photos/miss_goodwrong/8227171901",
+        "width": 1024,
+        "height": 678,
+        "thumbnail": {
+          "width": 300,
+          "height": 198
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=boyd+rice&id=97306AC61704609784C1BB1100D7E87E3189A16B&FORM=IARRTH",
+        "name": "Rice, Album and Watches on Pinterest",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.drH7FTwlmwSfU-qYwIMOJgDsCx&pid=Api",
+        "datePublished": "2017-01-09T20:28:00.0000000Z",
+        "contentUrl": "https://s-media-cache-ak0.pinimg.com/236x/ab/03/e0/ab03e0f035d0155ce75fd7ec5a89f9ac.jpg",
+        "hostPageUrl": "http://www.pinterest.com/pin/545357836099874346/",
+        "contentSize": "6052 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.pinterest.com/pin/545357836099874346/",
+        "width": 236,
+        "height": 177,
+        "thumbnail": {
+          "width": 236,
+          "height": 177
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=boyd+rice&id=0F0D6C4BE42B5996A9F11C2F774A4DAF00DBBEAF&FORM=IARRTH",
+        "name": "SPRINGTIME FOR BOYD RICE - Interview by Greg Scorzo",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.S-aEFlEv7oq_HbKGMN-3sAErEs&pid=Api",
+        "datePublished": "2017-06-13T13:21:00.0000000Z",
+        "contentUrl": "http://www.cultureontheoffensive.com/wp-content/uploads/2015/03/image-61.jpg",
+        "hostPageUrl": "http://www.cultureontheoffensive.com/boyd-rice-interview/",
+        "contentSize": "101897 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.cultureontheoffensive.com/boyd-rice-interview/",
+        "width": 397,
+        "height": 398,
+        "thumbnail": {
+          "width": 299,
+          "height": 300
+        }
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.9"
+          }
+        }
+      ]
+    },
+    "sidebar": {
+      "items": [
+        {
+          "answerType": "Images",
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#Images"
+          }
+        }
+      ]
+    }
+  }
+}

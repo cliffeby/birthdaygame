@@ -1,0 +1,561 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "Jamie Foxx"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=Jamie+Foxx",
+    "totalEstimatedMatches": 549000,
+    "value": [
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.0",
+        "name": "Jamie Foxx - Official Site",
+        "url": "http://www.jamiefoxxmusic.com/",
+        "about": [
+          {
+            "name": "Jamie Foxx"
+          }
+        ],
+        "displayUrl": "www.jamiefoxxmusic.com",
+        "snippet": "Project Hollywood. Now's your chance to show off your talent! Submit your best DubSmash from Jamie Foxx's Soundboard and tag #JamieFoxxProjectHollywood to enter to ...",
+        "dateLastCrawled": "2017-12-10T20:16:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.1",
+        "name": "Jamie Foxx - IMDb",
+        "url": "http://www.imdb.com/name/nm0004937/",
+        "about": [
+          {
+            "name": "Jamie Foxx"
+          }
+        ],
+        "displayUrl": "www.imdb.com/name/nm0004937",
+        "snippet": "Jamie Foxx, Actor: Django Unchained. Jamie Foxx is an American actor, singer and comedian. He won an Academy Award for Best Actor, BAFTA Award for Best Actor in a ...",
+        "deepLinks": [
+          {
+            "name": "Biography",
+            "url": "http://www.imdb.com/name/nm0004937/bio"
+          },
+          {
+            "name": "Awards",
+            "url": "http://www.imdb.com/name/nm0004937/awards"
+          },
+          {
+            "name": "Photo Gallery",
+            "url": "http://www.imdb.com/name/nm0004937/mediaindex"
+          },
+          {
+            "name": "Trailers And Videos",
+            "url": "http://www.imdb.com/name/nm0004937/videogallery"
+          },
+          {
+            "name": "By Year",
+            "url": "http://www.imdb.com/filmosearch?sort=year&explore=title_type&role=nm0004937"
+          },
+          {
+            "name": "By Ratings",
+            "url": "http://www.imdb.com/filmosearch?sort=user_rating&explore=title_type&role=nm0004937"
+          }
+        ],
+        "dateLastCrawled": "2017-12-11T06:16:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.2",
+        "name": "Jamie Foxx - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jamie_Foxx",
+        "about": [
+          {
+            "name": "Jamie Foxx"
+          }
+        ],
+        "displayUrl": "https://en.wikipedia.org/wiki/Jamie_Foxx",
+        "snippet": "Eric Marlon Bishop (born December 13, 1967), known professionally as Jamie Foxx, is an American actor, singer, songwriter, producer, and comedian.",
+        "dateLastCrawled": "2017-12-11T18:32:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.3",
+        "name": "Jamie Foxx - Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/celebrity/jamie_foxx/",
+        "displayUrl": "https://www.rottentomatoes.com/celebrity/jamie_foxx",
+        "snippet": "Jamie Foxx Celebrity Profile - Check out the latest Jamie Foxx photo gallery, biography, pics, pictures, interviews, news, forums and blogs at Rotten Tomatoes!",
+        "dateLastCrawled": "2017-12-12T06:18:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.4",
+        "name": "Jamie Foxx - Home | Facebook",
+        "url": "https://www.facebook.com/jamiefoxx",
+        "about": [
+          {
+            "name": "Jamie Foxx"
+          }
+        ],
+        "displayUrl": "https://www.facebook.com/jamiefoxx",
+        "snippet": "This is a million dollar episode... HONESTLY. IM GIVING AWAY A MILLION DOLLARS!!! #winnerwinner I am so grateful to all the fans friends and fam that have shown love ...",
+        "dateLastCrawled": "2017-12-11T14:35:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.5",
+        "name": "Jamie Foxx  | Twitter",
+        "url": "https://twitter.com/iamjamiefoxx",
+        "thumbnailUrl": "https://www.bing.com/th?u=https%3a%2f%2fpbs.twimg.com%2fprofile_images%2f463089630934339584%2fS7g1a_i2_bigger.jpeg&w=40&h=40&c=1&rs=1&pid=5.1",
+        "displayUrl": "https://twitter.com/iamjamiefoxx",
+        "snippet": "Tweet with a location. You can add location information to your Tweets, such as your city or precise location, from the web and via third-party applications.",
+        "dateLastCrawled": "2017-12-12T03:20:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.6",
+        "name": "Jamie Foxx - Actor - Biography.com",
+        "url": "https://www.biography.com/people/jamie-foxx-12782283",
+        "displayUrl": "https://www.biography.com/people/jamie-foxx-12782283",
+        "snippet": "Follow the diverse career of Jamie Foxx, from his days on In Living Color to his Oscar win for Ray, on Biography.com.",
+        "dateLastCrawled": "2017-12-10T06:43:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.7",
+        "name": "Jamie Foxx — Free listening, videos, concerts, stats and ...",
+        "url": "https://www.last.fm/music/Jamie+Foxx",
+        "displayUrl": "https://www.last.fm/music/Jamie+Foxx",
+        "snippet": "Watch videos & listen free to Jamie Foxx: Blame It, Fall For Your Type & more. Eric Morlon Bishop, Jr. (born December 13, 1967 in Terrell, Texas), better known by ...",
+        "dateLastCrawled": "2017-12-08T05:46:00.0000000Z"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.8",
+        "name": "Jamie Foxx | News, Music Performances and Show Video ... - MTV",
+        "url": "http://www.mtv.com/artists/jamie-foxx",
+        "displayUrl": "www.mtv.com/artists/jamie-foxx",
+        "snippet": "Read news updates about Jamie Foxx. Discover video clips of recent music performances and more on MTV.",
+        "dateLastCrawled": "2017-11-28T04:54:00.0000000Z"
+      }
+    ]
+  },
+  "images": {
+    "id": "https://api.cognitive.microsoft.com/api/v7/#Images",
+    "readLink": "https://api.cognitive.microsoft.com/api/v7/images/search?q=jamie+foxx&qpvt=Jamie+Foxx",
+    "webSearchUrl": "https://www.bing.com/images/search?q=jamie+foxx&qpvt=Jamie+Foxx",
+    "isFamilyFriendly": true,
+    "value": [
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=jamie+foxx&id=BA89298DE5BA31C49D3CCAFFE0378EAA64DEA682&FORM=IARRTH",
+        "name": "Jamie Foxx Negotiating To Star In ‘The Happytime Murders ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.xUho1vcgMtp8Mi3XrJ6IrwDrEs&pid=Api",
+        "datePublished": "2016-05-06T08:09:00.0000000Z",
+        "contentUrl": "https://pmcdeadline2.files.wordpress.com/2016/01/jamie-foxx-golden-globes.jpg?w=970",
+        "hostPageUrl": "http://deadline.com/2016/04/jamie-foxx-happytime-murders-movie-stx-1201745407/",
+        "contentSize": "559095 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://deadline.com/2016/04/jamie-foxx-happytime-murders-movie-stx-1201745407/",
+        "width": 970,
+        "height": 1235,
+        "thumbnail": {
+          "width": 235,
+          "height": 300
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=jamie+foxx&id=37E13A0DF819555D766EA80B69B9B6F6487A5FEF&FORM=IARRTH",
+        "name": "2016 Golden Globes: Jamie Foxx Makes Fun of Steve Harvey ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.iVopedjVhrCB8sV1hCeHqAHaE8&pid=Api",
+        "datePublished": "2016-01-11T02:24:00.0000000Z",
+        "contentUrl": "http://cimg.tvgcdn.net/i/r/2016/01/11/b604a3cb-88f7-4bb3-9c7b-e7afdc231ce5/thumbnail/1300x867/e16e5e016fde87c0d73e1ed845c6bca2/161001-news-golden-globes-jamie-foxx.jpg",
+        "hostPageUrl": "http://www.tvguide.com/news/jamie-foxx-mocks-steve-harvey-miss-universe-flub-2016-golden-globes/",
+        "contentSize": "124695 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.tvguide.com/news/jamie-foxx-mocks-steve-harvey-miss-universe-flub-2016-golden-globes/",
+        "width": 1300,
+        "height": 867,
+        "thumbnail": {
+          "width": 474,
+          "height": 316
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=jamie+foxx&id=501A0D7C314BB82C68C30D6431FD51DFA7DEFB5C&FORM=IARRTH",
+        "name": "Jamie Foxx says Dak Prescott is the true Willie Beamen ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.jCwEWnC-OG4uwsYt59YHLwEsCo&pid=Api",
+        "datePublished": "2017-01-13T12:34:00.0000000Z",
+        "contentUrl": "https://espntheundefeated.files.wordpress.com/2017/01/jamie_foxx.jpg?w=1500&h=844&crop=1",
+        "hostPageUrl": "https://theundefeated.com/features/jamie-foxx-says-cowboys-dak-prescott-is-the-true-willie-beaman/",
+        "contentSize": "165536 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "https://theundefeated.com/features/jamie-foxx-says-cowboys-dak-prescott-is-the-true-willie-beaman/",
+        "width": 1500,
+        "height": 844,
+        "thumbnail": {
+          "width": 300,
+          "height": 168
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=jamie+foxx&id=5D864C399D27188341862B82162E8BE0B821AA67&FORM=IARRTH",
+        "name": "Twitter Slams Jamie Foxx's Bruce Jenner Jokes at ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.kg6sTQpCOMpYZidHTYUF_ADPEt&pid=Api",
+        "datePublished": "2015-03-30T13:31:00.0000000Z",
+        "contentUrl": "http://cimg.tvgcdn.net/i/r/2015/03/30/53bdfc5d-4eef-4bd6-ae6f-1cb19c0f885d/thumbnail/804x1170/a17bf06d6c7af75edd19163f4ba8ecec/150330-news-jamie-foxx.jpg",
+        "hostPageUrl": "http://www.tvguide.com/news/jamie-foxxs-bruce-jenner/",
+        "contentSize": "158342 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.tvguide.com/news/jamie-foxxs-bruce-jenner/",
+        "width": 804,
+        "height": 1170,
+        "thumbnail": {
+          "width": 207,
+          "height": 301
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=jamie+foxx&id=8F72013FD0519ABEBDA1E0C0975019DD70F54A7F&FORM=IARRTH",
+        "name": "Jamie Foxx Picture 227 - 2015 Pre-GRAMMY Gala and Salute ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.YhiIU3HFykhwpJF0s-R6JAHaKP&pid=Api",
+        "datePublished": "2015-02-11T10:19:00.0000000Z",
+        "contentUrl": "http://www.aceshowbiz.com/images/wennpic/jamie-foxx-2015-pre-grammy-gala-01.jpg",
+        "hostPageUrl": "http://www.aceshowbiz.com/events/Jamie%20Foxx/jamie-foxx-2015-pre-grammy-gala-01.html",
+        "contentSize": "208021 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.aceshowbiz.com/events/Jamie%20Foxx/jamie-foxx-2015-pre-grammy-gala-01.html",
+        "width": 723,
+        "height": 1000,
+        "thumbnail": {
+          "width": 474,
+          "height": 655
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=jamie+foxx&id=0C80692838726E4E6C4798EC45C34C71F3F11392&FORM=IARRTH",
+        "name": "Must-watch video: Jamie Foxx rocks a pink iPhone in new ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.So1ZT34iad19BQM6Ip5stAEsCo&pid=Api",
+        "datePublished": "2017-08-13T01:25:00.0000000Z",
+        "contentUrl": "https://tribzap2it.files.wordpress.com/2015/10/jamie-foxx-getty.jpg",
+        "hostPageUrl": "http://screenertv.com/celebs/video-jamie-foxx-rocks-pink-iphone-commercial/",
+        "contentSize": "205398 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://screenertv.com/celebs/video-jamie-foxx-rocks-pink-iphone-commercial/",
+        "width": 900,
+        "height": 506,
+        "thumbnail": {
+          "width": 300,
+          "height": 168
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=jamie+foxx&id=6C72CF277868EB2E5C7FCEC4734CE5330FA42E6B&FORM=IARRTH",
+        "name": "Actor Jamie Foxx visits Venezuela President Maduro ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.BXdzt6row2XloMLbPVWXWgEsDZ&pid=Api",
+        "datePublished": "2016-10-05T20:38:00.0000000Z",
+        "contentUrl": "http://www.usnews.com/cmsmedia/b5/aa4ee3c4a19ada83f6a04497473c16/media:88a16ae213ca409685dc18d68cb5ba44Venezuela-JamieFoxx.JPEG",
+        "hostPageUrl": "http://www.usnews.com/news/entertainment/articles/2016-10-05/actor-jamie-foxx-visits-venezuela-president-maduro",
+        "contentSize": "144116 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.usnews.com/news/entertainment/articles/2016-10-05/actor-jamie-foxx-visits-venezuela-president-maduro",
+        "width": 1532,
+        "height": 1113,
+        "thumbnail": {
+          "width": 300,
+          "height": 217
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=jamie+foxx&id=A17C4265032B66C7E3B8F0C90D7DD3761DFBFA18&FORM=IARRTH",
+        "name": "Jamie Foxx Biography - Childhood, Life Achievements & Timeline",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.yu1bhMEKbnLGrx9QK_UdZAERDk&pid=Api",
+        "datePublished": "2017-10-29T04:11:00.0000000Z",
+        "contentUrl": "http://www.thefamouspeople.com/profiles/images/jamie-foxx-3.jpg",
+        "hostPageUrl": "http://www.thefamouspeople.com/profiles/jamie-foxx-1757.php",
+        "contentSize": "119974 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.thefamouspeople.com/profiles/jamie-foxx-1757.php",
+        "width": 900,
+        "height": 750,
+        "thumbnail": {
+          "width": 273,
+          "height": 228
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=jamie+foxx&id=7C6270B1959187CA334CBF830D40B86235423817&FORM=IARRTH",
+        "name": "Jamie Foxx is Little John in Robin Hood: Origins",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP._HxHsMDpEw3sSohxPS1FKgEsDL&pid=Api",
+        "datePublished": "2016-01-11T22:05:00.0000000Z",
+        "contentUrl": "http://cdn3-www.comingsoon.net/assets/uploads/2016/01/Jamie1.jpg",
+        "hostPageUrl": "http://www.comingsoon.net/movies/news/646499-jamie-foxx-is-little-john-in-robin-hood-origins",
+        "contentSize": "234346 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.comingsoon.net/movies/news/646499-jamie-foxx-is-little-john-in-robin-hood-origins",
+        "width": 640,
+        "height": 434,
+        "thumbnail": {
+          "width": 300,
+          "height": 203
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=jamie+foxx&id=6C90522D0EE0F9B56B16BE161D69B30387C5A623&FORM=IARRTH",
+        "name": "Jamie Foxx Picture 219 - New York Premiere of Annie - Arrivals",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.lJsli6CCNOIplyMN7OJ4kwHaKb&pid=Api",
+        "datePublished": "2015-02-07T10:47:00.0000000Z",
+        "contentUrl": "http://aceshowbiz.com/images/wennpic/jamie-foxx-premiere-annie-01.jpg",
+        "hostPageUrl": "http://www.aceshowbiz.com/events/Jamie%20Foxx/jamie-foxx-premiere-annie-01.html",
+        "contentSize": "158627 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.aceshowbiz.com/events/Jamie%20Foxx/jamie-foxx-premiere-annie-01.html",
+        "width": 710,
+        "height": 1000,
+        "thumbnail": {
+          "width": 474,
+          "height": 667
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=jamie+foxx&id=FE42807B0395B4C20BF82F17E1CAF1061314A014&FORM=IARRTH",
+        "name": "Jamie Foxx Produce Child Refugee Drama ‘The Displaced ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.cbM8aP4omomSaWEPoVulVQEnDT&pid=Api",
+        "datePublished": "2017-06-20T22:52:00.0000000Z",
+        "contentUrl": "https://pmcdeadline2.files.wordpress.com/2017/01/jamie-foxx.jpg?w=605",
+        "hostPageUrl": "http://deadline.com/2017/06/jamie-foxx-produce-child-refugee-drama-series-the-displaced-killer-impact-1202117101/",
+        "contentSize": "70676 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://deadline.com/2017/06/jamie-foxx-produce-child-refugee-drama-series-the-displaced-killer-impact-1202117101/",
+        "width": 605,
+        "height": 433,
+        "thumbnail": {
+          "width": 295,
+          "height": 211
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=jamie+foxx&id=BD3BD9B2A5DB20942192D63F566854D36D70D31C&FORM=IARRTH",
+        "name": "Jamie Foxx on Oscars Controversy: What’s the Big Deal ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.0QDkHUz3qUYHZewFyNxAcwEsCd&pid=Api",
+        "datePublished": "2016-02-22T18:02:00.0000000Z",
+        "contentUrl": "http://img.wennermedia.com/social/jamie-foxx-1-b0bef07c-8d2b-4e75-a36c-d7f1d6b8e1d0.jpg",
+        "hostPageUrl": "http://www.usmagazine.com/celebrity-news/news/jamie-foxx-on-oscars-controversy-whats-the-big-deal-w164999",
+        "contentSize": "111538 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.usmagazine.com/celebrity-news/news/jamie-foxx-on-oscars-controversy-whats-the-big-deal-w164999",
+        "width": 1200,
+        "height": 630,
+        "thumbnail": {
+          "width": 300,
+          "height": 157
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=jamie+foxx&id=582B861D9E405CFE0F5FE52BDB453BDA422F8520&FORM=IARRTH",
+        "name": "Jamie Foxx Biography, Celebrity Facts and Awards | TVGuide.com",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.GZDdgM4EIpd4m08JsIz70gDYEg&pid=Api",
+        "datePublished": "2017-01-01T06:19:00.0000000Z",
+        "contentUrl": "http://static.tvgcdn.net/mediabin/showcards/celebs/j/thumbs/jamie-foxx_155592_768x1024.png",
+        "hostPageUrl": "http://www.tvguide.com/celebrities/jamie-foxx/bio/155592",
+        "contentSize": "1213697 B",
+        "encodingFormat": "png",
+        "hostPageDisplayUrl": "http://www.tvguide.com/celebrities/jamie-foxx/bio/155592",
+        "width": 768,
+        "height": 1024,
+        "thumbnail": {
+          "width": 216,
+          "height": 288
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=jamie+foxx&id=4EA2A33783D3D36FE3357EC4C025A88BA7E7F0FB&FORM=IARRTH",
+        "name": "Was Jamie Foxx's national anthem that bad?",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.o2IOPMWzL6BDXOcmmORacQHaD4&pid=Api",
+        "datePublished": "2015-05-04T14:14:00.0000000Z",
+        "contentUrl": "http://www.gannett-cdn.com/-mm-/4a350c931c460212e75e0dc2c659e314e8f0c800/c=0-233-4171-2590&r=x1683&c=3200x1680/local/-/media/2015/05/04/USATODAY/USATODAY/635663302238829480-JAMIE-FOXX.JPG",
+        "hostPageUrl": "http://www.usatoday.com/story/life/music/2015/05/04/jamie-foxx-national-anthem-fight/26862469/",
+        "contentSize": "519575 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.usatoday.com/story/life/music/2015/05/04/jamie-foxx-national-anthem-fight/26862469/",
+        "width": 3200,
+        "height": 1680,
+        "thumbnail": {
+          "width": 474,
+          "height": 248
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=jamie+foxx&id=A8DC776D2413673C6F463EEEECF81BF6C6284C8F&FORM=IARRTH",
+        "name": "Listen: Jamie Foxx, And Nicole Murphy Tell Some Epic ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.04wc42CWZNShe-CKRWyKwAHaFD&pid=Api",
+        "datePublished": "2016-05-03T04:46:00.0000000Z",
+        "contentUrl": "http://comedyhype.com/wp-content/uploads/2016/05/jamie-foxx-1024x698.jpg",
+        "hostPageUrl": "http://hiphopextra.com/hip-hop-news/listen-jamie-foxx-and-nicole-murphy-tell-some-epic-prince-stories-on-the-foxxhole/",
+        "contentSize": "65623 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://hiphopextra.com/hip-hop-news/listen-jamie-foxx-and-nicole-murphy-tell-some-epic-prince-stories-on-the-foxxhole/",
+        "width": 1024,
+        "height": 698,
+        "thumbnail": {
+          "width": 474,
+          "height": 323
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=jamie+foxx&id=C8FC441F5D043FA1CFE198F323DF5D2872A9F593&FORM=IARRTH",
+        "name": "Jamie Foxx Game - Google Family Feud",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.gP17TJMOgSKkSMJL7Jxw2AHaJU&pid=Api",
+        "datePublished": "2017-06-02T11:18:00.0000000Z",
+        "contentUrl": "http://www.celebritysizes.com/wp-content/uploads/2016/05/Jamie-Foxx.jpg",
+        "hostPageUrl": "http://googlefamilyfeud.com/jamie-foxx-game/",
+        "contentSize": "60736 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://googlefamilyfeud.com/jamie-foxx-game/",
+        "width": 615,
+        "height": 774,
+        "thumbnail": {
+          "width": 474,
+          "height": 596
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=jamie+foxx&id=0411E456B1DFE747782131F5384BABD0AFA287DF&FORM=IARRTH",
+        "name": "Jamie Foxx 2017: dating, tattoos, smoking, net worth ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.nnAqlf7nGTVy8_bnWaQ74gEsEs&pid=Api",
+        "datePublished": "2014-06-27T12:00:00.0000000Z",
+        "contentUrl": "https://pbs.twimg.com/profile_images/463089630934339584/S7g1a_i2.jpeg",
+        "hostPageUrl": "http://taddlr.com/celebrity/jamie-foxx/",
+        "contentSize": "116752 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://taddlr.com/celebrity/jamie-foxx/",
+        "width": 1252,
+        "height": 1252,
+        "thumbnail": {
+          "width": 300,
+          "height": 300
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=jamie+foxx&id=A11B410831A304E7961D647525E6AFBB384330BC&FORM=IARRTH",
+        "name": "Jamie Foxx And Deon Cole To Present At The 2016 BET Awards ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.38KuloOYxQ1rzu_rxKr8nQEsCw&pid=Api",
+        "datePublished": "2016-06-25T05:20:00.0000000Z",
+        "contentUrl": "http://humormillmag.com/wp-content/uploads/2015/05/Jamie-Foxx1.jpg",
+        "hostPageUrl": "http://humormillmag.com/jamie-foxx-deon-cole-present-2016-bet-awards/",
+        "contentSize": "82645 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://humormillmag.com/jamie-foxx-deon-cole-present-2016-bet-awards/",
+        "width": 1258,
+        "height": 740,
+        "thumbnail": {
+          "width": 300,
+          "height": 176
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=jamie+foxx&id=D7FED29560AEFACFEED3D5193ECB01AD6F3A169E&FORM=IARRTH",
+        "name": "Jamie Foxx Saved a Man From a Burning Truck -- Vulture",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP._vui2l8-nuUIclURrxhk9gHaHa&pid=Api",
+        "datePublished": "2016-01-19T22:19:00.0000000Z",
+        "contentUrl": "http://pixel.nymag.com/imgs/daily/vulture/2016/01/19/19-jamie-foxx.w529.h529.jpg",
+        "hostPageUrl": "http://www.vulture.com/2016/01/jamie-foxx-saved-a-man-from-a-burning-truck.html",
+        "contentSize": "87045 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.vulture.com/2016/01/jamie-foxx-saved-a-man-from-a-burning-truck.html",
+        "width": 529,
+        "height": 529,
+        "thumbnail": {
+          "width": 474,
+          "height": 474
+        }
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/images/search?q=jamie+foxx&id=A76BB73B077A2CB327123016F8014FA2CA608D1B&FORM=IARRTH",
+        "name": "Jamie Foxx, Michelle Monaghan to Star in Action-Thriller ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.mxBxmMIMX28IQ32nHlGmkAEyDL&pid=Api",
+        "datePublished": "2001-01-01T00:00:00.0000000Z",
+        "contentUrl": "http://www.thewrap.com/wp-content/uploads/2015/01/Jamie-Foxx.jpg",
+        "hostPageUrl": "http://www.thewrap.com/jamie-foxx-michelle-monaghan-to-star-in-action-thriller-sleepless-night/",
+        "contentSize": "27190 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.thewrap.com/jamie-foxx-michelle-monaghan-to-star-in-action-thriller-sleepless-night/",
+        "width": 618,
+        "height": 411,
+        "thumbnail": {
+          "width": 306,
+          "height": 203
+        }
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "Tweets"
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.8"
+          }
+        }
+      ]
+    },
+    "sidebar": {
+      "items": [
+        {
+          "answerType": "Images",
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#Images"
+          }
+        }
+      ]
+    }
+  }
+}
