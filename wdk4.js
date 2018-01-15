@@ -28,15 +28,15 @@ function put(paramsPUT) {
     });
 };
 
-var d = addDays(new Date(), 2);
+var d = addDays(new Date(), 0);
 var day = d.getDate();
 var month = d.getMonth() + 1;
+var year = d.getYear();
 var dString = d.toISOString().substring(0, 10);
 console.log('Date',dString);
 function addDays(date, days) {
     var result = new Date(date);
     result.setDate(result.getDate() + days);
-
     return result;
 }
 
@@ -67,6 +67,7 @@ SELECT DISTINCT (YEAR(?date) AS ?year) ?personLabel ?personDescription ?genderLa
   FILTER(!BOUND(?d))
   FILTER((YEAR(?date)) > 1930)
   FILTER(((MONTH(?date)) = ` + month + `)&& ((DAY(?date)) = ` + day + `))
+  FILTER not exists {?person wdt:P106 wd:Q488111.}
 }
 LIMIT 25
 `
@@ -84,7 +85,7 @@ axios.get(url)
         for (var i = 0; i < response.data.results.bindings.length; i++) {
             name[i] = response.data.results.bindings[i].personLabel.value;
             sex[i] = response.data.results.bindings[i].genderLabel.value;
-            age[i] = 2017 - response.data.results.bindings[i].year.value;
+            age[i] = year - response.data.results.bindings[i].year.value;
             label[i] = response.data.results.bindings[i].personDescription.value;
 
 

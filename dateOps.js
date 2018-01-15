@@ -1,7 +1,7 @@
 /**
  * Created by cliff on 12/22/2017.
  */
-var d = addDays(new Date(),4);
+var d = addDays(new Date(),0);
 console.log('Date',d.getDate());
 console.log('Date',d.getMonth());
 console.log('Date',d);
